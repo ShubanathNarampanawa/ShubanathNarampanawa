@@ -70,6 +70,15 @@ Check out my [GitHub repositories](https://github.com/ShubanathNarampanawa?tab=r
 
 ---
 
+## 💼 Portfolio
+
+Discover my journey through code, creativity, and cybersecurity.  
+From crafting intelligent AI tools and full-stack applications to exploring the depths of ethical hacking and secure system design — my portfolio showcases the projects that define my passion for building meaningful tech.
+
+🔗 [Explore My Work](Coming soon)
+
+---
+
 ## ✨ Badges
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
