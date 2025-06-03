@@ -14,6 +14,13 @@ Hi there! I'm Shubanath Narampanawa — a passionate learner in programming, AI,
 
 ---
 
+## 🎯 Mission & Vision
+
+I aspire to become a global innovator at the intersection of **Artificial Intelligence** and **Cybersecurity**.  
+My goal is to build ethical, intelligent systems that protect people, data, and digital infrastructure — while contributing to open knowledge and global tech growth.
+
+---
+
 ## 🚀 Future Goals
 
 - Become an expert in AI and cybersecurity solutions  
@@ -21,6 +28,44 @@ Hi there! I'm Shubanath Narampanawa — a passionate learner in programming, AI,
 - Contribute to open-source projects in AI and infosec  
 - Learn continuously and grow through collaboration  
 - Create meaningful software that helps others  
+
+---
+
+
+## 🎓 Education
+
+**Bachelor of Science in Software Engineering**  
+University of Java institute for advanced technology ,Sri Lanka  
+2023 – 2026
+
+---
+
+## 🏅 Certifications
+
+- ✅ Professional Diploma in Software Engineering (FQ- UK)
+
+---
+
+## 💼 Work Experience
+
+### 🧠 AI & Cybersecurity Enthusiast (Self-driven Projects)
+**Role:** Independent Researcher & Developer  
+**Period:** 2024 - Present  
+- soon
+
+---
+
+### 🌐 Freelance Developer (soon)
+**Role:** Full-Stack Developer  
+**Period:** soon
+- soon
+
+---
+
+### 🎓 Software Engineering Intern – [soon / soon]
+**Role:** soon
+**Period:** soon
+- soon
 
 ---
 
@@ -118,12 +163,46 @@ If you're working on something interesting — feel free to reach out!
 
 ---
 
+## 🌐 Languages I Speak
+
+- 🗣️ English 
+- 🗣️ Sinhala 
+
+---
+
 ## 📫 Connect with Me
 
 - GitHub: [@ShubanathNarampanawa](https://github.com/ShubanathNarampanawa)  
 - LinkedIn: [Shubanath Narampanawa](https://www.linkedin.com/in/shubanath-narampanawa-67a991313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- Instagram: [@migara_narampanawa](https://www.instagram.com/migara_narampanawa?igsh=NnZ6MDZjbGcybjh6)  
+- Instagram: [@migara_narampanawa](https://www.instagram.com/migara_narampanawa?igsh=NnZ6MDZjbGcybjh6)
+
+
+- 📡 Developer Contact Card
+📎 [Download vCard](soon)
+
 - 🚀 More links and project updates coming soon...
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubanathNarampanawa&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubanathNarampanawa&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShubanathNarampanawa&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+
+<!-- Modern Activity Graph -->
+## 📈 Recent GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubanathNarampanawa&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
 
 ---
 
