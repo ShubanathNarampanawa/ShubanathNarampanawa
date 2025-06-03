@@ -27,8 +27,25 @@ Hi there! I'm Shubanath Narampanawa — a passionate learner in programming, AI,
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,php,html,css,react,angular,nextjs,nodejs,django,flask,spring,dotnet,linux,tailwind,tensorflow,pytorch,sklearn,numpy,opencv,mysql,mongodb,aws,gcp,docker,blender,threejs&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,php,html,css,react,angular,nextjs,nodejs,django,flask,spring,dotnet,linux,tailwind,tensorflow,pytorch,sklearn,opencv,mysql,mongodb,aws,gcp,docker,blender,threejs&perline=10" />
 </p>
+
+- **Frontend**:
+  Html,Css,Js,React,Angularjs
+  
+- **Backend**:
+  Php,Java,Python,C#,Nodejs,C++
+  
+- **Frameworks**:
+  Django,Flask,DotNet,SpringBoot
+  
+- **AI/ML Libraries**:
+TensorFlow,Pytorch,Numpy,OpenCv,LangGraph
+  
+- **Database** :Mysql,Mongodb
+  
+- **Cloud & Tools**:
+Docker,Linux,Blender,Threejs,GoogleCloud,Aws
 
 ---
 
