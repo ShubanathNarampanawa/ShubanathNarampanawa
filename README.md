@@ -59,12 +59,7 @@ University of Java institute for advanced technology ,Sri Lanka
 **Period:** soon
 - soon
 
-
-### 🎓 Software Engineering – 
-- soon
-
-
-### 🧠 Artificial Intelligence – 
+### 🧠 Artificial Intelligence 
 - soon
 
 ---
