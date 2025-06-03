@@ -53,19 +53,16 @@ University of Java institute for advanced technology ,Sri Lanka
 **Period:** 2024 - Present  
 - soon
 
----
 
 ### 🌐 Freelance Developer (soon)
 **Role:** Full-Stack Developer  
 **Period:** soon
 - soon
 
----
 
 ### 🎓 Software Engineering – 
 - soon
 
----
 
 ### 🧠 Artificial Intelligence – 
 - soon
