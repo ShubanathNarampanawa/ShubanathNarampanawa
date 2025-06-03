@@ -20,44 +20,15 @@ Hi there! I'm Shubanath Narampanawa — a passionate learner in programming, AI,
 - Build AI-powered security tools  
 - Contribute to open-source projects in AI and infosec  
 - Learn continuously and grow through collaboration  
-- Create meaningful software that helps others
+- Create meaningful software that helps others  
 
 ---
 
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack
 
-<div align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" />
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white " width="50" height="50" alt="C++" />
-
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot" />
-
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-
-  <!-- Tools & 3D -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" height="50" alt="Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50" height="50" alt="Three.js" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,php,html,css,react,angular,nextjs,nodejs,django,flask,spring,dotnet,linux,tailwind,tensorflow,pytorch,sklearn,numpy,opencv,mysql,mongodb,aws,gcp,docker,blender,threejs&perline=10" />
+</p>
 
 ---
 
@@ -66,7 +37,8 @@ Hi there! I'm Shubanath Narampanawa — a passionate learner in programming, AI,
 - Machine Learning & Artificial Intelligence (AI), including **Generative AI (GenAI)**  
 - Cybersecurity & Ethical Hacking  
 - Intelligent, secure, and scalable software systems  
-- Ethical use of technology
+- Ethical use of technology  
+- Compliance & standards: including **NIST Cybersecurity Framework**
 
 ---
 
@@ -87,15 +59,18 @@ Check out my [GitHub repositories](https://github.com/ShubanathNarampanawa?tab=r
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?style=flat&logo=angularjs&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AI](https://img.shields.io/badge/-AI-black?style=flat&logo=openai)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-darkgreen?style=flat&logo=kalilinux)
+![NIST Framework](https://img.shields.io/badge/-NIST%20Framework-002554?style=flat&logo=nist&logoColor=white)
 
 ---
 
@@ -115,8 +90,7 @@ If you're working on something interesting — feel free to reach out!
 
 - GitHub: [@ShubanathNarampanawa](https://github.com/ShubanathNarampanawa)  
 - LinkedIn: [Shubanath Narampanawa](https://www.linkedin.com/in/shubanath-narampanawa-67a991313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- Instagram: [@migara_narampanawa](https://www.instagram.com/migara_narampanawa?igsh=NnZ6MDZjbGcybjh6)
-
+- Instagram: [@migara_narampanawa](https://www.instagram.com/migara_narampanawa?igsh=NnZ6MDZjbGcybjh6)  
 - 🚀 More links and project updates coming soon...
 
 ---
