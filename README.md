@@ -14,24 +14,6 @@ Hi there! I'm Shubanath Narampanawa — a passionate learner in programming, AI,
 
 ---
 
-## 🎯 Mission & Vision
-
-I aspire to become a global innovator at the intersection of **Artificial Intelligence** and **Cybersecurity**.  
-My goal is to build ethical, intelligent systems that protect people, data, and digital infrastructure — while contributing to open knowledge and global tech growth.
-
----
-
-## 🚀 Future Goals
-
-- Become an expert in AI and cybersecurity solutions  
-- Build AI-powered security tools  
-- Contribute to open-source projects in AI and infosec  
-- Learn continuously and grow through collaboration  
-- Create meaningful software that helps others  
-
----
-
-
 ## 🎓 Education
 
 **Bachelor of Science in Software Engineering**  
