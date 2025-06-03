@@ -24,7 +24,7 @@ Hi there! I'm Shubanath Narampanawa — a passionate learner in programming, AI,
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills and Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,php,html,css,react,angular,nextjs,nodejs,django,flask,spring,dotnet,linux,tailwind,tensorflow,pytorch,sklearn,opencv,mysql,mongodb,aws,gcp,docker,blender,threejs&perline=10" />
