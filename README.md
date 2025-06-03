@@ -48,7 +48,7 @@ University of Java institute for advanced technology ,Sri Lanka
 
 ## 💼 Work Experience
 
-### 🧠 AI & Cybersecurity Enthusiast (Self-driven Projects)
+### 🛡️ AI & Cybersecurity Enthusiast (Self-driven Projects)
 **Role:** Independent Researcher & Developer  
 **Period:** 2024 - Present  
 - soon
