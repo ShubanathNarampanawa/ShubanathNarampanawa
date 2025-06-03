@@ -54,7 +54,7 @@ University of Java institute for advanced technology ,Sri Lanka
 - soon
 
 
-### 🌐 Freelance Developer (soon)
+### 🌐 Freelance Developer 
 **Role:** Full-Stack Developer  
 **Period:** soon
 - soon
