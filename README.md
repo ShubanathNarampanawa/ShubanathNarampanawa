@@ -62,9 +62,12 @@ University of Java institute for advanced technology ,Sri Lanka
 
 ---
 
-### 🎓 Software Engineering Intern – [soon / soon]
-**Role:** soon
-**Period:** soon
+### 🎓 Software Engineering – 
+- soon
+
+---
+
+### 🧠 Artificial Intelligence – 
 - soon
 
 ---
