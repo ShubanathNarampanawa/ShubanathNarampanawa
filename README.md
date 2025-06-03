@@ -97,6 +97,12 @@ From crafting intelligent AI tools and full-stack applications to exploring the 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![NIST Framework](https://img.shields.io/badge/-NIST%20Framework-002554?style=flat&logo=nist&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF4500?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Full Stack Dev](https://img.shields.io/badge/Full_Stack_Dev-0c4a6e?style=for-the-badge&logo=react&logoColor=white)
+![AI](https://img.shields.io/badge/AI-00CED1?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
