@@ -59,18 +59,18 @@ University of Java institute for advanced technology ,Sri Lanka
   Php,Java,Python,C#,Nodejs,C++
   
 - **Frameworks**:
-  Django,Flask,DotNet,SpringBoot,NIST,CIS Controls,MITRE ATT&CK,ZTA,OWASP SAMM
+  Django,Flask,DotNet,SpringBoot,NIST,CIS
   
 - **AI/ML Libraries**:
 TensorFlow,Pytorch,Numpy,OpenCv,LangGraph
 
 - **Cybersecurity Libraries**:
-  Scapy,Cryptography,CryptoJS,BouncyCastle
-  
+OpenSSL,Cryptography,CryptoJS,BouncyCastle
+
 - **Database** :Mysql,Mongodb
   
 - **Cloud & Tools**:
-Docker,Linux,Blender,Threejs,GoogleCloud,Aws,Splunk,ELK Stack,CrowdStrike,Wireshark, Zeek,OpenVAS,Hashcat
+Docker,Linux,Blender,Threejs,GoogleCloud,Aws,Nmap,Metasploit,Wireshark,OpenVAS, Snort
 
 ---
 
