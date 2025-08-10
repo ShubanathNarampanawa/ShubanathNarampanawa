@@ -56,16 +56,16 @@ University of Java institute for advanced technology ,Sri Lanka
   Html,Css,Js,React,Angularjs
   
 - **Backend**:
-  Php,Java,Python,C#,Nodejs,C++
+  Php,Java,Python,Nodejs,C++
   
 - **Frameworks**:
-  Django,Flask,DotNet,SpringBoot,NIST,CIS
+  Django,Flask,SpringBoot,NIST,CIS
   
 - **AI/ML Libraries**:
 TensorFlow,Pytorch,Numpy,OpenCv,LangGraph
 
 - **Cybersecurity Libraries**:
-OpenSSL,Cryptography,CryptoJS,BouncyCastle
+Cryptography,CryptoJS,BouncyCastle
 
 - **Database** :Mysql,Mongodb
   
