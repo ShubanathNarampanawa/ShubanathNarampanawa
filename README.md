@@ -16,9 +16,8 @@ Hi there! I'm Shubanath Narampanawa — a passionate learner in programming, AI,
 
 ## 🎓 Education
 
-**Bachelor of Science in Software Engineering**  
-University of Java institute for advanced technology ,Sri Lanka  
-2023 – 2026
+**Bsc (Hons) Information technology in artificial intelligence**  
+University of ICBT ,Sri Lanka  
 
 ---
 
@@ -32,16 +31,18 @@ University of Java institute for advanced technology ,Sri Lanka
 
 ### 🛡️ AI & Cybersecurity Enthusiast (Self-driven Projects)
 **Role:** Independent Researcher & Developer  
-**Period:** 2024 - Present  
+**Period:** 2026 - Present  
 - soon
 
 
 ### 🌐 Freelance Developer 
 **Role:** Full-Stack Developer  
-**Period:** soon
+**Period:** 2026 - Present  
 - soon
 
 ### 🧠 Artificial Intelligence 
+**Role:** AI Developer   
+**Period:** 2026 - Present  
 - soon
 
 ---
@@ -49,29 +50,29 @@ University of Java institute for advanced technology ,Sri Lanka
 ## 🛠️ Skills and Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,php,html,css,react,angular,nextjs,nodejs,django,flask,spring,dotnet,linux,tailwind,tensorflow,pytorch,sklearn,opencv,mysql,mongodb,aws,gcp,docker,blender,threejs&perline=10" />
+  
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack_Dev-0c4a6e?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </p>
 
+
 - **Frontend**:
-  Html,Css,Js,React,Angularjs
+  Html,Css,Js,React,react.js,React native
   
 - **Backend**:
-  Php,Java,Python,Nodejs,C++
+  Python,C++
   
-- **Frameworks**:
-  Django,Flask,SpringBoot,NIST,CIS
+- **Database** :Mysql
   
-- **AI/ML Libraries**:
-TensorFlow,Pytorch,Numpy,OpenCv,LangGraph
-
-- **Cybersecurity Libraries**:
-Cryptography,CryptoJS,BouncyCastle
-
-- **Database** :Mysql,Mongodb
-  
-- **Cloud & Tools**:
-Docker,Linux,Blender,Threejs,GoogleCloud,Aws,Nmap,Metasploit,Wireshark,OpenVAS, Snort
-
 ---
 
 ## 🤖 Focus Areas
@@ -101,19 +102,6 @@ Discover my journey through code, creativity, and cybersecurity.
 From crafting intelligent AI tools and full-stack applications to exploring the depths of ethical hacking and secure system design — my portfolio showcases the projects that define my passion for building meaningful tech.
 
 🔗 [Explore My Work](Coming soon)
-
----
-
-## ✨ Badges
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Full Stack Dev](https://img.shields.io/badge/Full_Stack_Dev-0c4a6e?style=for-the-badge&logo=react&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -147,28 +135,6 @@ If you're working on something interesting — feel free to reach out!
 📎 [Download vCard](soon)
 
 - 🚀 More links and project updates coming soon...
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubanathNarampanawa&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubanathNarampanawa&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShubanathNarampanawa&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-
-<!-- Modern Activity Graph -->
-## 📈 Recent GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubanathNarampanawa&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-</p>
-
 
 ---
 
