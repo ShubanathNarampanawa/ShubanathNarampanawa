@@ -64,15 +64,26 @@ University of ICBT ,Sri Lanka
 
 </p>
 
+## 🖼️ Frontend
+- HTML  
+- CSS  
+- JavaScript (JS)  
+- React / React.js  
+- React Native  
+- Next.js  
 
-- **Frontend**:
-  Html,Css,Js,React,react.js,React native
-  
-- **Backend**:
-  Python,C++
-  
-- **Database** :Mysql
-  
+## ⚙️ Backend
+- Python  
+- C++  
+
+## 🗄️ Database
+- MySQL  
+
+## 📚 Frameworks
+- React / React.js  
+- React Native  
+- Next.js  
+
 ---
 
 ## 🤖 Focus Areas
