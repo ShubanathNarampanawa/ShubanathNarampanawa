@@ -67,11 +67,12 @@ Check out my [GitHub repositories](https://github.com/ShubanathNarampanawa?tab=r
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubanathNarampanawa&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubanathNarampanawa&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubanathNarampanawa&layout=compact&theme=tokyonight" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubanathNarampanawa&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShubanathNarampanawa&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubanathNarampanawa&layout=compact&theme=tokyonight)
 
 ---
 
