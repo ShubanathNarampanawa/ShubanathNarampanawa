@@ -6,13 +6,13 @@
 ## 🧾 About Me
 I am Shubanath Narampanawa, a dedicated learner and developer with strong interests in Artificial Intelligence, Cybersecurity, and Full-Stack Software Development.
 
-🚀 Passionate about building smarter and safer digital systems by integrating AI with cybersecurity.
+- Passionate about building smarter and safer digital systems by integrating AI with cybersecurity.
 
-💡 Skilled in full-stack development, creating scalable applications that solve complex problems.
+- Skilled in full-stack development, creating scalable applications that solve complex problems.
 
-🔐 Focused on designing secure, intelligent solutions that address modern digital challenges.
+- Focused on designing secure, intelligent solutions that address modern digital challenges.
 
-📚 Continuously learning, experimenting, and innovating to deliver impactful software solutions.
+- Continuously learning, experimenting, and innovating to deliver impactful software solutions.
 
 My professional goal is to bridge AI and security while developing robust software systems that empower organizations and individuals in the digital era.
 
@@ -25,14 +25,14 @@ My professional goal is to bridge AI and security while developing robust softwa
 ---
 
 ## 🏅 Certifications
-- ✅ Professional Diploma in Software Engineering (FQ-UK)  
+- Professional Diploma in Software Engineering (FQ-UK)  
 
 ---
 
 ## 💼 Work Experience
-- 🛡️ **AI & Cybersecurity Enthusiast (Self-driven Projects)** — 2026 - Present  
-- 🌐 **Freelance Developer (Full-Stack)** — 2026 - Present  
-- 🧠 **Artificial Intelligence Developer** — 2026 - Present  
+-  **AI & Cybersecurity Enthusiast (Self-driven Projects)** — 2026 - Present  
+-  **Freelance Developer (Full-Stack)** — 2026 - Present  
+-  **Artificial Intelligence Developer** — 2026 - Present  
 
 ---
 
@@ -108,8 +108,8 @@ I’m open to collaborating on:
 ---
 
 ## 🌐 Languages I Speak
-- 🗣️ English  
-- 🗣️ Sinhala  
+- English  
+- Sinhala  
 
 ---
 
@@ -118,11 +118,13 @@ I’m open to collaborating on:
 - LinkedIn: [Shubanath Narampanawa](https://www.linkedin.com/in/shubanath-narampanawa-67a991313)  
 - Instagram: [@migara_narampanawa](https://www.instagram.com/migara_narampanawa)  
 
-📡 Developer Contact Card — [Download vCard](soon)  
-🚀 More links and project updates coming soon...  
+- Developer Contact Card — [Download vCard](soon)
+
+  
+More links and project updates coming soon...  
 
 ---
 
 <p align="center">
-🔥 Thanks for visiting my profile! I’m committed to learning every day and exploring the power of AI, cybersecurity, and software.  
+Thanks for visiting my profile! I’m committed to learning every day and exploring the power of AI, cybersecurity, and software.  
 </p>
