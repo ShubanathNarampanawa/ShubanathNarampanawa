@@ -41,18 +41,28 @@ My professional goal is to bridge AI and security while developing robust softwa
   <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,python,react,nextjs,mysql,github" />
 </p>
 
-### 🖼️ Frontend
-- HTML, CSS, JavaScript  
+## 🖥️ Frontend (Languages & Core Tools)
+- HTML  
+- CSS  
+- JavaScript  
+
+## 🏗️ Frontend Frameworks & Libraries
 - React / React.js  
 - React Native  
 - Next.js  
 
-### ⚙️ Backend
+## ⚙️ Backend (Languages)
 - Python  
 - C++  
+- Php  
 
-### 🗄️ Database
+## 🏗️ Backend Frameworks & Libraries
+- Node.js  
+
+## 🗄️ Database
 - MySQL  
+
+
 
 ---
 
