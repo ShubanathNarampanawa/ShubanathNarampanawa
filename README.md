@@ -4,9 +4,17 @@
 ---
 
 ## 🧾 About Me
-Hi there! I'm **Shubanath Narampanawa** — a passionate learner in programming, AI, and cybersecurity.  
-🚀 Exploring technologies that build smarter and safer digital systems.  
-💡 Continuously learning and experimenting to create meaningful software solutions.  
+I am Shubanath Narampanawa, a dedicated learner and developer with strong interests in Artificial Intelligence, Cybersecurity, and Full-Stack Software Development.
+
+🚀 Passionate about building smarter and safer digital systems by integrating AI with cybersecurity.
+
+💡 Skilled in full-stack development, creating scalable applications that solve complex problems.
+
+🔐 Focused on designing secure, intelligent solutions that address modern digital challenges.
+
+📚 Continuously learning, experimenting, and innovating to deliver impactful software solutions.
+
+My professional goal is to bridge AI and security while developing robust software systems that empower organizations and individuals in the digital era.
 
 ---
 
@@ -83,8 +91,9 @@ From crafting intelligent AI tools and full-stack applications to exploring ethi
 ## 🤝 Let’s Collaborate
 I’m open to collaborating on:  
 - AI & ML side-projects  
-- Cybersecurity labs, challenges, and CTFs  
-- Open-source projects improving safety, privacy, or productivity  
+- Cybersecurity projects 
+- Open-source projects 
+- software projects 
 
 ---
 
