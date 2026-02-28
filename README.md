@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I’m Shubanath Narampanawa</h1>
-<h3 align="center">🌱 Programming Learner | 🧠 AI & Cybersecurity Enthusiast | 💻 Creative Developer</h3>
 
 ---
 
