@@ -63,8 +63,6 @@ Backend Frameworks & Libraries
 Database
 - MySQL  
 
-
-
 ---
 
 ## 🤖 Focus Areas
@@ -85,7 +83,7 @@ Check out my [GitHub repositories](https://github.com/ShubanathNarampanawa?tab=r
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShubanathNarampanawa&theme=tokyonight)
 
