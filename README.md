@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I’m Shubanath Narampanawa</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4D96FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shubanath+Narampanawa+%F0%9F%91%8B;Full-Stack+Developer;Frontend:+HTML+%7C+CSS+%7C+JavaScript;Frameworks:+React+%7C+React+Native+%7C+Next.js;Backend:+Python+%7C+C%2B%2B+%7C+PHP;Libraries:+Node.js;Database:+MySQL" />
+</p>
+
 
 ---
 
