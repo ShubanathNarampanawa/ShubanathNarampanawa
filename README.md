@@ -96,7 +96,7 @@ Check out my [GitHub repositories](https://github.com/ShubanathNarampanawa?tab=r
 Discover my journey through code, creativity, and cybersecurity.  
 From crafting intelligent AI tools and full-stack applications to exploring ethical hacking and secure system design.  
 
-🔗 [Explore My Work](Coming soon)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white)](soon)  
 
 ---
 
@@ -116,11 +116,13 @@ I’m open to collaborating on:
 ---
 
 ## 📫 Connect with Me
-- GitHub: [@ShubanathNarampanawa](https://github.com/ShubanathNarampanawa)  
-- LinkedIn: [Shubanath Narampanawa](https://www.linkedin.com/in/shubanath-narampanawa-67a991313)  
-- Instagram: [@migara_narampanawa](https://www.instagram.com/migara_narampanawa)  
 
-- Developer Contact Card — [Download vCard](soon)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubanathNarampanawa)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubanath-narampanawa-67a991313)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/migara_narampanawa)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)  
+[![Download vCard](https://img.shields.io/badge/vCard-0052CC?style=for-the-badge&logo=contactless-payment&logoColor=white)](soon)
+
 
   
 More links and project updates coming soon...  
