@@ -42,30 +42,31 @@ I enjoy exploring emerging technologies and building practical solutions that co
   FQ-UK
 
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
-### Programming Languages
-
+💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,html,css" alt="Programming Languages" />
 </p>
 
-### Frameworks & Development
-
+🚀 Frameworks & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,django,flask,fastapi" alt="Frameworks and Development Tools" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,django,flask,fastapi" alt="Frameworks and Development" />
 </p>
 
-### Databases & AI/ML
-
+🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,pytorch,tensorflow" alt="Databases and AI/ML" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 </p>
 
-### Tools & Platforms
-
+🤖 Artificial Intelligence & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI and ML" />
+</p>
+
+🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tools and Platforms" />
 </p>
 
 ### Areas of Interest
