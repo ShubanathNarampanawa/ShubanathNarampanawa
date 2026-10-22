@@ -71,7 +71,7 @@ I enjoy exploring emerging technologies and building practical solutions that co
 
 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman,docker" alt="Tools and Platforms" />
 </p>
 
 ### Areas of Interest
@@ -133,8 +133,6 @@ I'm continuously building and exploring projects to strengthen my practical skil
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShubanathNarampanawa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-
-
 
 <br />
 
