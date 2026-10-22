@@ -1,131 +1,195 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4D96FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile+!;Hi%2C+I'm+Shubanath+Narampanawa+%F0%9F%91%8B;Programming+Learner;AI+%26+Cybersecurity+Enthusiast;Creative+Full-stack+Developer;" />
+ <div align="center">
+<h1>Shubanath Narampanawa</h1>
+
+<h3>AI & Machine Learning | Cybersecurity | Full-Stack Development</h3>
+
+<p>
+  <a href="https://github.com/ShubanathNarampanawa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/shubanath-narampanawa-67a991313">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cadobs92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
----
+</div>
 
-## 🧾 About Me
-I am Shubanath Narampanawa, a dedicated learner and developer with strong interests in Artificial Intelligence, Cybersecurity, and Full-Stack Software Development.
 
-- Passionate about building smarter and safer digital systems by integrating AI with cybersecurity.
+## 👨‍💻 About Me
 
-- Skilled in full-stack development, creating scalable applications that solve complex problems.
+I'm **Shubanath Narampanawa**, an IT undergraduate specializing in Artificial Intelligence, with a strong interest in cybersecurity and full-stack software development.
 
-- Focused on designing secure, intelligent solutions that address modern digital challenges.
+I enjoy exploring emerging technologies and building practical solutions that combine intelligent systems, secure architecture, and modern application development.
 
-- Continuously learning, experimenting, and innovating to deliver impactful software solutions.
+* 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI.
+* 🔐 Learning cybersecurity principles, ethical hacking, and secure system design.
+* 💻 Developing full-stack applications using modern programming languages and frameworks.
+* 🧠 Continuously improving my problem-solving, software engineering, and technical skills.
+* 🌱 Interested in building technology that is intelligent, reliable, and secure.
 
-My professional goal is to bridge AI and security while developing robust software systems that empower organizations and individuals in the digital era.
+**My goal:** To develop secure, scalable, and intelligent software solutions at the intersection of AI and cybersecurity.
 
----
 
-## 🎓 Education
-- **BSc (Hons) Information Technology in Artificial Intelligence**  
-  University of ICBT, Sri Lanka  
+## 🎓 Education & Certification
 
----
+* **BSc (Hons) in Information Technology — Artificial Intelligence**
+  University of ICBT, Sri Lanka
 
-## 🏅 Certifications
-- Professional Diploma in Software Engineering (FQ-UK)  
+* **Professional Diploma in Software Engineering**
+  FQ-UK
 
----
 
-## 💼 Work Experience
--  **AI & Cybersecurity Enthusiast (Self-driven Projects)** — 2026 - Present  
--  **Freelance Developer (Full-Stack)** — 2026 - Present  
--  **Artificial Intelligence Developer** — 2026 - Present  
+## 🛠️ Technical Skills
 
----
+### Programming Languages
 
-## 🛠️ Skills & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,php,python,react,nextjs,nodejs,mysql,github" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css" alt="Programming Languages" />
 </p>
 
-Frontend (Languages & Core Tools)
-- HTML  
-- CSS  
-- JavaScript  
+### Frameworks & Development
 
-Frontend Frameworks & Libraries
-- React / React.js  
-- React Native  
-- Next.js  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,django,flask,fastapi" alt="Frameworks and Development Tools" />
+</p>
 
-Backend (Languages)
-- Python  
-- C++  
-- Php  
+### Databases & AI/ML
 
-Backend Frameworks & Libraries
-- Node.js  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,pytorch,tensorflow" alt="Databases and AI/ML" />
+</p>
 
-Database
-- MySQL  
+### Tools & Platforms
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Development Tools" />
+</p>
 
-## 🤖 Focus Areas
-- Machine Learning & Generative AI  
-- Cybersecurity & Ethical Hacking  
-- Secure & Scalable Software Systems  
-- Ethical Tech Practices  
-- Compliance & Standards (NIST Cybersecurity Framework)  
+### Areas of Interest
 
----
+* Artificial Intelligence & Machine Learning
+* Generative AI & LLM Applications
+* Cybersecurity & Ethical Hacking
+* Full-Stack Web Application Development
+* Secure Software Engineering
+* Automation & Linux Scripting
 
-## 📌 Pinned Projects
-Check out my [GitHub repositories](https://github.com/ShubanathNarampanawa?tab=repositories):  
-- AI & ML experiments  
-- Cybersecurity mini-projects  
-- Automation & Linux scripting  
-- Full-stack practice apps  
 
----
+## 🚀 Projects & Development
 
-## 📊 GitHub Status
+I'm continuously building and exploring projects to strengthen my practical skills.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShubanathNarampanawa&theme=tokyonight)
+| Area                      | Focus                                                                        |
+| ------------------------- | ---------------------------------------------------------------------------- |
+| 🤖 AI & Machine Learning  | Intelligent applications, ML experiments, and AI-powered tools               |
+| 🔐 Cybersecurity          | Security-focused experiments, ethical hacking labs, and defensive techniques |
+| 🌐 Full-Stack Development | Responsive interfaces, backend APIs, and database-driven applications        |
+| ⚙️ Automation             | Python scripting, Linux tools, and workflow automation                       |
 
----
+<div align="center">
+
+<a href="https://github.com/ShubanathNarampanawa?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+</a>
+
+</div>
+
 
 ## 💼 Portfolio
-Discover my journey through code, creativity, and cybersecurity.  
-From crafting intelligent AI tools and full-stack applications to exploring ethical hacking and secure system design.  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white)](soon)  
-
----
-
-## 🤝 Let’s Collaborate
-I’m open to collaborating on:  
-- AI & ML side-projects  
-- Cybersecurity projects 
-- Open-source projects 
-- software projects 
-
----
-
-## 🌐 Languages I Speak
-- English  
-- Sinhala  
-
----
-
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubanathNarampanawa)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubanath-narampanawa-67a991313)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/migara_narampanawa)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadobs92@gmail.com)  
-[![Download vCard](https://img.shields.io/badge/vCard-0052CC?style=for-the-badge&logo=contactless-payment&logoColor=white)](soon)
-
-
-  
-More links and project updates coming soon...  
-
----
 
 <p align="center">
-Thanks for visiting my profile! I’m committed to learning every day and exploring the power of AI, cybersecurity, and software.  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4D96FF&center=true&vCenter=true&width=600&lines=Explore+My+Portfolio;Code+%7C+Creativity+%7C+Innovation;AI+%7C+Cybersecurity+%7C+Development" alt="Portfolio Animation" />
 </p>
+
+<p align="center">
+  Discover my journey through code, creativity, and cybersecurity.
+  <br />
+  Explore my skills, projects, and development journey in Artificial Intelligence,
+  Cybersecurity, and Full-Stack Software Development.
+</p>
+
+<p align="center">
+  <a href="soon">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-4D96FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <i>More projects and updates coming soon...</i>
+</p>
+
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShubanathNarampanawa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+
+
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubanathNarampanawa&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+
+## 🎯 Current Focus
+
+* Building practical AI and machine learning projects.
+* Exploring secure application development and cybersecurity fundamentals.
+* Improving backend engineering and API development skills.
+* Learning about responsible AI, security best practices, and industry standards.
+* Contributing to meaningful software and open-source projects.
+
+
+## 🤝 Collaboration
+
+I'm open to collaborating on:
+
+* AI and Machine Learning projects
+* Cybersecurity research and educational labs
+* Full-stack web applications
+* Open-source software
+* Automation and developer tools
+
+If you're interested in building something useful, feel free to connect!
+
+
+## 🌐 Languages
+
+* English
+* Sinhala
+
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ShubanathNarampanawa">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/shubanath-narampanawa-67a991313">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/migara_narampanawa">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:cadobs92@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Learn. Build. Secure. Innovate.
+
+*Thanks for visiting my profile! I'm always learning, building, and exploring new possibilities in AI, cybersecurity, and software engineering.*
+
+</div>
