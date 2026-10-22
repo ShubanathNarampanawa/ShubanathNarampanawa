@@ -71,7 +71,7 @@ I enjoy exploring emerging technologies and building practical solutions that co
 
 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman,docker" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,figma,postman,docker" alt="Tools and Platforms" />
 </p>
 
 ### Areas of Interest
