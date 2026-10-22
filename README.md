@@ -64,6 +64,11 @@ I enjoy exploring emerging technologies and building practical solutions that co
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI and ML" />
 </p>
 
+🔒 Cybersecurity & DevSecOps
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,bash,powershell,docker,kubernetes,terraform,githubactions" alt="Cybersecurity and DevSecOps" />
+</p>
+
 🧰 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tools and Platforms" />
