@@ -61,7 +61,7 @@ I enjoy exploring emerging technologies and building practical solutions that co
 
 🤖 Artificial Intelligence & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI and ML" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda" alt="AI and ML" />
 </p>
 
 🔒 Cybersecurity & DevSecOps
