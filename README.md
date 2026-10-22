@@ -54,9 +54,9 @@ I enjoy exploring emerging technologies and building practical solutions that co
   <img src="https://skillicons.dev/icons?i=react,nodejs,spring,django,flask,fastapi" alt="Frameworks and Development" />
 </p>
 
-🗄️ Databases
+🗄️ Databases & cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" alt="Databases" />
 </p>
 
 🤖 Artificial Intelligence & Machine Learning
