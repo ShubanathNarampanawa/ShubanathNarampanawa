@@ -79,7 +79,7 @@ I enjoy exploring emerging technologies and building practical solutions that co
 * Artificial Intelligence & Machine Learning
 * Generative AI & LLM Applications
 * Cybersecurity & Ethical Hacking
-* Full-Stack Web Application Development
+* Full-Stack Development
 * Secure Software Engineering
 * Automation & Linux Scripting
 
