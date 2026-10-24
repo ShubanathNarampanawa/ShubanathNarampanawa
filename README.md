@@ -192,9 +192,10 @@ I'm open to collaborating on:
 
 * AI and Machine Learning projects
 * Cybersecurity research and educational labs
-* Full-stack web applications
+* Full-stack development 
 * Open-source software
 * Automation and developer tools
+* Security AI/ML Projects
 
 If you're interested in building something useful, feel free to connect!
 
