@@ -20,17 +20,19 @@
 
 ## 👨‍💻 About Me
 
-I'm **Shubanath Narampanawa**, an IT undergraduate specializing in Artificial Intelligence, with a strong interest in cybersecurity and full-stack software development.
+​I’m Shubanath Narampanawa, an IT undergraduate specializing in Artificial Intelligence with a focused interest in AI-driven cybersecurity and secure software engineering.
 
-I enjoy exploring emerging technologies and building practical solutions that combine intelligent systems, secure architecture, and modern application development.
+​I build intelligent, resilient systems by integrating machine learning models with secure architecture and modern full-stack development. My technical focus spans AI/ML systems engineering, threat intelligence automation, adversarial machine learning, and secure application development.
 
-* 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI.
-* 🔐 Learning cybersecurity principles, ethical hacking, and secure system design.
-* 💻 Developing full-stack applications using modern programming languages and frameworks.
-* 🧠 Continuously improving my problem-solving, software engineering, and technical skills.
-* 🌱 Interested in building technology that is intelligent, reliable, and secure.
+🤖 Artificial Intelligence & Machine Learning: Developing ML/DL models, Generative AI applications, and intelligent automation workflows.
 
-**My goal:** To develop secure, scalable, and intelligent software solutions at the intersection of AI and cybersecurity.
+🔐 AI Security & Ethical Hacking: Applying ML to threat detection, securing AI pipeline models against adversarial attacks, and designing secure software architectures.
+
+💻 Full-Stack Software Engineering: Building scalable, robust applications using modern frameworks and secure coding practices.
+
+🧠 Continuous Optimization: Continuously sharpening problem-solving skills, enterprise software architecture, and algorithm design.
+
+Goal: To engineer secure, scalable, and intelligent software systems at the convergence of Artificial Intelligence and Cybersecurity.
 
 
 ## 🎓 Education & Certification
