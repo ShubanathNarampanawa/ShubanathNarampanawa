@@ -46,32 +46,68 @@ I enjoy exploring emerging technologies and building practical solutions that co
 
 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,html,css" alt="Programming Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-🚀 Frameworks & Development
+🤖 AI, ML & MLOps
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,django,flask,fastapi" alt="Frameworks and Development" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/MLflow-0185CA?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Model%20Monitoring-000000?style=for-the-badge&logo=activity&logoColor=white" alt="Model Monitoring" />
 </p>
 
-🗄️ Databases & cloud
+🔒 Cybersecurity & GenAI Security
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" alt="Databases" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010%20LLM-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP LLM" />
+  <img src="https://img.shields.io/badge/ART%20Toolbox-E2231A?style=for-the-badge&logo=shield&logoColor=white" alt="ART Toolbox" />
+  <img src="https://img.shields.io/badge/Wireshark-167EC6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Scapy" />
 </p>
 
-🤖 Artificial Intelligence & Machine Learning
+📊 Cloud Security, SIEM & Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda" alt="AI and ML" />
+  <img src="https://img.shields.io/badge/AWS%20Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Security" />
+  <img src="https://img.shields.io/badge/Azure%20Sentinel-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Sentinel" />
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
 </p>
 
-🔒 Cybersecurity & DevSecOps
+🚀 Backend & DevSecOps
 <p>
-  <img src="https://skillicons.dev/icons?i=kali,bash,powershell,docker,kubernetes,terraform,githubactions" alt="Cybersecurity and DevSecOps" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,figma,postman,docker" alt="Tools and Platforms" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ### Areas of Interest
