@@ -86,12 +86,15 @@ Goal: To engineer secure, scalable, and intelligent software systems at the conv
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
 </p>
 
-🚀 Backend & DevSecOps
+🚀 Backend, Integration & DevSecOps
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/WSO2%20API%20Manager-FF5000?style=for-the-badge&logo=wso2&logoColor=white" alt="WSO2 API Manager" />
+  <img src="https://img.shields.io/badge/WSO2%20Identity%20Server-FF5000?style=for-the-badge&logo=wso2&logoColor=white" alt="WSO2 Identity Server" />
+  <img src="https://img.shields.io/badge/WSO2%20Micro%20Integrator-FF5000?style=for-the-badge&logo=wso2&logoColor=white" alt="WSO2 Micro Integrator" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
