@@ -1,21 +1,3 @@
- <div align="center">
-<h1>Shubanath Narampanawa</h1>
-
-<h3>AI & Machine Learning | Cybersecurity | Full-Stack Development</h3>
-
-<p>
-  <a href="https://github.com/ShubanathNarampanawa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/shubanath-narampanawa-67a991313">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:cadobs92@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-</div>
 
 
 ## 👨‍💻 About Me
