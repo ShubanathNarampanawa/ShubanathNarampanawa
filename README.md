@@ -172,15 +172,23 @@ I'm continuously building and exploring projects to strengthen my practical skil
 </p>
 
 
-## 📊 GitHub Statistics
-
 <div align="center">
-<br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubanathNarampanawa&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+# 📊 My GitHub Statistics
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/cards.dark.svg"
+  />
+  <img
+    src="./assets/cards.light.svg"
+    alt="GitHub Statistics Dashboard"
+    width="100%"
+  />
+</picture>
 
 </div>
-
 
 ## 🎯 Current Focus
 
