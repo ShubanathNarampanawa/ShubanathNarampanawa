@@ -175,9 +175,6 @@ I'm continuously building and exploring projects to strengthen my practical skil
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShubanathNarampanawa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-
 <br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubanathNarampanawa&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
