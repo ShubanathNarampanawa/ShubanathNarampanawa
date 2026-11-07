@@ -454,7 +454,3 @@ Feel free to connect and share innovative ideas!
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Keep+Innovating.;Build+Intelligent+%26+Secure+Systems." />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShubanathNarampanawa&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
-</p>
