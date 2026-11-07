@@ -18,7 +18,7 @@
 class Developer:
     def __init__(self):
         self.name = "Shubanath Narampanawa"
-        self.role = "AI Engineer & Software Developer"
+        self.role = "AI Security Engineer & Software Developer"
         self.focus = ["Artificial Intelligence", "Cybersecurity"]
         self.mindset = "Learn, Build, Secure, Innovate"
 
