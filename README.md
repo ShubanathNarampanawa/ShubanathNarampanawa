@@ -8,9 +8,6 @@
   <img src="https://img.shields.io/badge/AI-Focused-00D9FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20%26%20Cybersecurity-Explorer-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Building-The%20Future-00C853?style=for-the-badge" />
-    <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
 </p>
 
 ---
