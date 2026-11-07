@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/AI-Focused-00D9FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20%26%20Cybersecurity-Explorer-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Building-The%20Future-00C853?style=for-the-badge" />
+    <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -390,12 +393,15 @@ sudo apt install git python3 docker.io
 - 🌐 **Backend Engineering:** Designing scalable APIs and secure backend architectures.
 - ☁️ **Cloud & DevSecOps:** Exploring cloud infrastructure, automation, and security monitoring.
 
-```html
-<a href="https://github.com/ShubanathNarampanawa?tab=repositories">
-    View My Projects
-</a>
+## 🚀 My Projects
+
+```python
+class MyProjects:
+    def explore(self):
+        return "Explore my work"
 ```
 
+**[View All Projects ↗](https://github.com/ShubanathNarampanawa?tab=repositories)**
 
 ## 🧠 Engineering Philosophy
 
