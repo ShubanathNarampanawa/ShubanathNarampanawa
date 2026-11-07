@@ -390,6 +390,13 @@ sudo apt install git python3 docker.io
 - 🌐 **Backend Engineering:** Designing scalable APIs and secure backend architectures.
 - ☁️ **Cloud & DevSecOps:** Exploring cloud infrastructure, automation, and security monitoring.
 
+```html
+<a href="https://github.com/ShubanathNarampanawa?tab=repositories">
+    View My Projects
+</a>
+```
+
+
 ## 🧠 Engineering Philosophy
 
 ```python
