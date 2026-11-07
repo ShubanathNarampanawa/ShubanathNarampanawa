@@ -172,21 +172,87 @@ I'm continuously building and exploring projects to strengthen my practical skil
 </p>
 
 
+
 <div align="center">
 
-# 📊 My GitHub Statistics
+# 📊 MY GITHUB STATISTICS
 
+### ShubanathNarampanawa
+
+*My GitHub journey, contributions and development activity.*
+
+</div>
+
+---
+
+## 📌 GitHub Overview
+
+<div align="center">
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/cards.dark.svg"
-  />
-  <img
-    src="./assets/cards.light.svg"
-    alt="GitHub Statistics Dashboard"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="./assets/overview.dark.svg">
+  <img src="./assets/overview.light.svg"
+    alt="GitHub Overview" width="100%">
 </picture>
+</div>
+
+---
+
+## 📅 Contribution Calendar
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="./assets/contributions.dark.svg">
+  <img src="./assets/contributions.light.svg"
+    alt="Contribution Calendar" width="100%">
+</picture>
+</div>
+
+---
+
+## 📈 Contribution Breakdown
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="./assets/composition.dark.svg">
+  <img src="./assets/composition.light.svg"
+    alt="Contribution Composition" width="100%">
+</picture>
+</div>
+
+---
+
+## 💻 Most Used Programming Languages
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="./assets/languages.dark.svg">
+  <img src="./assets/languages.light.svg"
+    alt="Programming Languages" width="100%">
+</picture>
+</div>
+
+---
+
+## 🏆 Repository Contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="./assets/repositories.dark.svg">
+  <img src="./assets/repositories.light.svg"
+    alt="Repository Statistics" width="100%">
+</picture>
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting my GitHub Profile!** 🚀
 
 </div>
 
