@@ -1,212 +1,460 @@
-
-
-## 👨‍💻 About Me
-
-​I’m Shubanath Narampanawa, an IT undergraduate specializing in Artificial Intelligence with a focused interest in AI-driven cybersecurity and secure software engineering.
-
-​I build intelligent, resilient systems by integrating machine learning models with secure architecture and modern full-stack development. My technical focus spans AI/ML systems engineering, threat intelligence automation, adversarial machine learning, and secure application development.
-
-🤖 Artificial Intelligence & Machine Learning: Developing ML/DL models, Generative AI applications, and intelligent automation workflows.
-
-🔐 AI Security & Ethical Hacking: Applying ML to threat detection, securing AI pipeline models against adversarial attacks, and designing secure software architectures.
-
-💻 Full-Stack Software Engineering: Building scalable, robust applications using modern frameworks and secure coding practices.
-
-🧠 Continuous Optimization: Continuously sharpening problem-solving skills, enterprise software architecture, and algorithm design.
-
-Goal: To engineer secure, scalable, and intelligent software systems at the convergence of Artificial Intelligence and Cybersecurity.
-
-
-## 🎓 Education & Certification
-
-* **BSc (Hons) in Information Technology — Artificial Intelligence**
-  University of ICBT, Sri Lanka
-
-* **Professional Diploma in Software Engineering**
-  FQ-UK
-
-
-### 🛠️ Technical Skills
-
-💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Ballerina-22B573?style=for-the-badge&logo=ballerina&logoColor=white" alt="Ballerina" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-</p>
-
-🤖 AI, ML & MLOps
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/ONNX%20Runtime-00599C?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-  <img src="https://img.shields.io/badge/MLflow-0185CA?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Model%20Monitoring-000000?style=for-the-badge&logo=activity&logoColor=white" alt="Model Monitoring" />
-</p>
-
-🔒 Cybersecurity & GenAI Security
-<p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010%20LLM-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP LLM" />
-  <img src="https://img.shields.io/badge/ART%20Toolbox-E2231A?style=for-the-badge&logo=shield&logoColor=white" alt="ART Toolbox" />
-  <img src="https://img.shields.io/badge/Wireshark-167EC6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Scapy" />
-</p>
-
-📊 Cloud Security, SIEM & Analytics
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Security" />
-  <img src="https://img.shields.io/badge/Azure%20Sentinel-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Sentinel" />
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
-</p>
-
-🚀 Backend, Integration & DevSecOps
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/WSO2%20API%20Manager-FF5000?style=for-the-badge&logo=wso2&logoColor=white" alt="WSO2 API Manager" />
-  <img src="https://img.shields.io/badge/WSO2%20Identity%20Server-FF5000?style=for-the-badge&logo=wso2&logoColor=white" alt="WSO2 Identity Server" />
-  <img src="https://img.shields.io/badge/WSO2%20Micro%20Integrator-FF5000?style=for-the-badge&logo=wso2&logoColor=white" alt="WSO2 Micro Integrator" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-### Areas of Interest
-
-* Artificial Intelligence & Machine Learning
-* Generative AI & LLM Applications
-* Cybersecurity & Ethical Hacking
-* Full-Stack Development
-* Secure Software Engineering
-* Automation & Linux Scripting
-
-
-## 🚀 Projects & Development
-
-I'm continuously building and exploring projects to strengthen my practical skills.
-
-| Area                      | Focus                                                                        |
-| ------------------------- | ---------------------------------------------------------------------------- |
-| 🤖 AI & Machine Learning  | Intelligent applications, ML experiments, and AI-powered tools               |
-| 🔐 Cybersecurity          | Security-focused experiments, ethical hacking labs, and defensive techniques |
-| 🌐 Full-Stack Development | Responsive interfaces, backend APIs, and database-driven applications        |
-| ⚙️ Automation             | Python scripting, Linux tools, and workflow automation                       |
-
-<div align="center">
-
-<a href="https://github.com/ShubanathNarampanawa?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
-</a>
-
-</div>
-
-
-## 💼 Portfolio
+# 👨‍💻 Shubanath Narampanawa
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4D96FF&center=true&vCenter=true&width=600&lines=Explore+My+Portfolio;Code+%7C+Creativity+%7C+Innovation;AI+%7C+Cybersecurity+%7C+Development" alt="Portfolio Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Software+Developer;Cybersecurity+Enthusiast;Building+Intelligent+%26+Secure+Systems" />
 </p>
 
 <p align="center">
-  Discover my journey through code, creativity, and cybersecurity.
-  <br />
-  Explore my skills, projects, and development journey in Artificial Intelligence,
-  Cybersecurity, and Full-Stack Software Development.
+  <img src="https://img.shields.io/badge/AI-Focused-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Cybersecurity-Explorer-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-The%20Future-00C853?style=for-the-badge" />
 </p>
-
-<p align="center">
-  <a href="soon">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-4D96FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <i>More projects and updates coming soon...</i>
-</p>
-
-## 🎯 Current Focus
-
-* Building practical AI and machine learning projects.
-* Exploring secure application development and cybersecurity fundamentals.
-* Improving backend engineering and API development skills.
-* Learning about responsible AI, security best practices, and industry standards.
-* Contributing to meaningful software and open-source projects.
-
-
-## 🤝 Collaboration
-
-I'm open to collaborating on:
-
-* AI and Machine Learning projects
-* Cybersecurity research and educational labs
-* Full-stack development 
-* Open-source software
-* Automation and developer tools
-* Security AI/ML Projects
-
-If you're interested in building something useful, feel free to connect!
-
-
-## 🌐 Languages
-
-* English
-* Sinhala
-
-
-## 📬 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/ShubanathNarampanawa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/shubanath-narampanawa-67a991313">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/migara_narampanawa">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:cadobs92@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
 
 ---
 
-<div align="center">
+## 💻 `$ whoami`
 
-### 💡 Learn. Build. Secure. Innovate.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Shubanath Narampanawa"
+        self.role = "AI Engineer & Software Developer"
+        self.focus = ["Artificial Intelligence", "Cybersecurity"]
+        self.mindset = "Learn, Build, Secure, Innovate"
 
-*Thanks for visiting my profile! I'm always learning, building, and exploring new possibilities in AI, cybersecurity, and software engineering.*
+    def introduce(self):
+        return "Building intelligent and secure digital solutions."
 
-</div>
+me = Developer()
+print(me.introduce())
+```
+
+## 🚀 About Me
+
+I'm an IT undergraduate specializing in **Artificial Intelligence**, passionate about building intelligent, secure, and scalable software solutions.
+
+My interests include:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔐 AI-Driven Cybersecurity & AI Security
+- 🛡️ Secure Software Engineering
+- 🌐 Backend Engineering & Full-Stack Development
+- ☁️ Cloud Security & DevSecOps
+- 🧠 AI Agents and Autonomous Systems
+
+I enjoy exploring emerging technologies, solving real-world problems, and transforming innovative ideas into practical software solutions.
+
+## 🎓 Education
+
+- 🎓 **BSc (Hons) in Information Technology – Artificial Intelligence**  
+  University of ICBT, Sri Lanka
+
+- 📘 **Professional Diploma in Software Engineering**  
+  FQ-UK
+
+---
+
+## 🛠️ Tech Stack & Engineering Skills
+
+### 💻 Programming Languages
+
+```python
+# Python - AI Development
+prediction = model.predict(input_data)
+```
+
+```java
+// Java - Application Development
+System.out.println("Building Secure Applications");
+```
+
+```javascript
+// JavaScript - API Integration
+fetch("/api/agents").then(res => res.json());
+```
+
+```cpp
+// C++ - Data Processing
+int process(int data) { return data * 2; }
+```
+
+```bash
+# Bash - Linux Automation
+echo "Starting Security Scan"
+```
+
+```powershell
+# PowerShell - System Management
+Get-Process | Select-Object ProcessName
+```
+
+```ballerina
+// Ballerina - REST API
+service /agents on new http:Listener(8080) {
+    resource function get .() returns json {
+        return {message: "Agent API Running"};
+    }
+}
+```
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+```python
+# PyTorch
+output = torch_model(input_tensor)
+```
+
+```python
+# TensorFlow
+predictions = tf_model.predict(X_test)
+```
+
+```python
+# OpenCV
+image = cv2.imread("image.jpg")
+```
+
+```python
+# Scikit-learn
+model.fit(X_train, y_train)
+```
+
+```bash
+# Anaconda
+conda create -n ai-env python=3.11
+conda activate ai-env
+```
+
+```python
+# ONNX Runtime
+session = ort.InferenceSession("model.onnx")
+```
+
+```python
+# MLflow
+mlflow.log_param("model", "RandomForest")
+mlflow.log_metric("accuracy", 0.95)
+```
+
+```python
+# MLOps - Model Monitoring
+if model_accuracy < 0.90:
+    print("Model performance alert!")
+```
+
+### 🔐 Cybersecurity & AI Security
+
+```bash
+# Kali Linux - Network Discovery
+nmap -sV 192.168.1.1
+```
+
+```bash
+# Linux - Firewall Status
+sudo ufw status
+```
+
+```python
+# OWASP LLM Security - Input Validation
+if "ignore previous instructions" in user_input.lower():
+    reject_request()
+```
+
+```python
+# Adversarial ML - ART Toolbox
+attack = FastGradientMethod(estimator=classifier, eps=0.2)
+```
+
+```bash
+# Wireshark - Traffic Analysis
+tshark -i eth0 -Y "dns"
+```
+
+```python
+# Scapy - Packet Analysis
+packets = sniff(count=10)
+```
+
+### ☁️ Cloud Security, SIEM & Analytics
+
+```python
+# AWS - S3
+s3 = boto3.client("s3")
+s3.list_buckets()
+```
+
+```bash
+# Azure CLI
+az account show
+```
+
+```python
+# AWS Security - IAM
+iam = boto3.client("iam")
+iam.get_account_summary()
+```
+
+```kusto
+// Azure Sentinel - Security Events
+SecurityEvent
+| where EventID == 4625
+```
+
+```json
+// Elastic / ELK Stack - Log Search
+{
+  "query": {
+    "match": {
+      "event.category": "authentication"
+    }
+  }
+}
+```
+
+```spl
+# Splunk SIEM - Failed Login Detection
+index=security action=failure
+| stats count by src_ip
+```
+
+### 🚀 Backend Engineering, APIs & DevSecOps
+
+```java
+// Spring Boot - REST API
+@GetMapping("/agents")
+public String getAgents() {
+    return "AI Agents";
+}
+```
+
+```javascript
+// Node.js - API Endpoint
+app.get("/api", (req, res) => {
+    res.json({ status: "running" });
+});
+```
+
+```python
+# FastAPI - API Endpoint
+@app.get("/agents")
+def get_agents():
+    return {"status": "authorized"}
+```
+
+```python
+# Flask - REST API
+@app.route("/health")
+def health():
+    return {"status": "healthy"}
+```
+
+```dockerfile
+# Docker - Application Container
+FROM python:3.11
+WORKDIR /app
+COPY . .
+CMD ["python", "app.py"]
+```
+
+```yaml
+# Kubernetes - Deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ai-agent
+spec:
+  replicas: 2
+```
+
+```hcl
+# Terraform - Cloud Infrastructure
+resource "aws_s3_bucket" "data" {
+  bucket = "ai-agent-data"
+}
+```
+
+```yaml
+# GitHub Actions - CI Workflow
+name: Build
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+```
+
+```yaml
+# WSO2 API Manager - API Configuration
+name: Agent API
+version: v1
+context: /agents
+```
+
+```json
+// WSO2 Identity Server - OAuth2
+{
+  "grant_type": "client_credentials",
+  "scope": "agent:read"
+}
+```
+
+```xml
+<!-- WSO2 Micro Integrator - API Integration -->
+<api xmlns="http://ws.apache.org/ns/synapse"
+     name="AgentAPI" context="/agents">
+    <resource methods="GET">
+        <inSequence>
+            <send>
+                <endpoint>
+                    <http uri-template="http://localhost:8081/agents"/>
+                </endpoint>
+            </send>
+        </inSequence>
+    </resource>
+</api>
+```
+
+### 🗄️ Databases & Data Management
+
+```sql
+-- PostgreSQL
+SELECT * FROM agents
+WHERE status = 'active';
+```
+
+```sql
+-- MySQL
+SELECT username, role
+FROM users
+WHERE role = 'admin';
+```
+
+```javascript
+// MongoDB
+db.agents.find({ status: "active" });
+```
+
+### 🧰 Development Tools & Platforms
+
+```bash
+# Git - Version Control
+git add .
+git commit -m "Add AI security features"
+git push origin main
+```
+
+```yaml
+# GitHub - Workflow
+name: AI Security Project
+on: [push, pull_request]
+```
+
+```json
+// VS Code - Editor Settings
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4
+}
+```
+
+```json
+// Visual Studio - Build Configuration
+{
+  "configurations": [
+    {
+      "name": "Debug",
+      "configurationType": "Debug"
+    }
+  ]
+}
+```
+
+```http
+# Postman - API Testing
+GET http://localhost:8000/agents
+Authorization: Bearer <access_token>
+```
+
+```bash
+# Linux - Development Environment
+sudo apt update
+sudo apt install git python3 docker.io
+```
+
+---
+
+## 🌟 Featured Development Areas
+
+- 🤖 **AI & Machine Learning:** Developing intelligent applications and machine learning solutions.
+- 🔐 **AI Security:** Exploring AI-driven cybersecurity, LLM security, and adversarial machine learning.
+- 🧩 **AI Agent Systems:** Building secure identity, authentication, and access-control solutions for autonomous AI agents.
+- 🌐 **Backend Engineering:** Designing scalable APIs and secure backend architectures.
+- ☁️ **Cloud & DevSecOps:** Exploring cloud infrastructure, automation, and security monitoring.
+
+## 🧠 Engineering Philosophy
+
+```python
+principles = {
+    "design": "Think before coding",
+    "development": "Build with purpose",
+    "security": "Security by design",
+    "learning": "Never stop learning",
+    "innovation": "Turn ideas into solutions"
+}
+```
+
+- Build solutions that solve real-world problems.
+- Write clean, maintainable, and scalable code.
+- Integrate security into every stage of development.
+- Continuously explore emerging technologies.
+- Focus on learning through practical projects.
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm interested in collaborating on projects related to:
+
+- Artificial Intelligence & Machine Learning
+- AI Agent Development and Security
+- Cybersecurity & Secure Software Engineering
+- Backend Development and API Engineering
+- Open-Source Projects
+
+Feel free to connect and share innovative ideas!
+
+## 🌍 Languages
+
+- Sinhala
+- English
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ShubanathNarampanawa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shubanath-narampanawa-67a991313">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/migara_narampanawa">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:cadobs92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Keep+Innovating.;Build+Intelligent+%26+Secure+Systems." />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShubanathNarampanawa&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+</p>
