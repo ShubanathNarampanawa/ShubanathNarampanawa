@@ -49,8 +49,8 @@ I enjoy exploring emerging technologies, solving real-world problems, and transf
 - 🎓 **BSc (Hons) in Information Technology – Artificial Intelligence**  
   University of ICBT, Sri Lanka
 
-- 📘 **Professional Diploma in Software Engineering**  
-  FQ-UK
+- 📘 **Level 4 Professional Diploma in Software Engineering**  
+  Skills & Education Group
 
 ---
 
